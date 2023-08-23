@@ -801,7 +801,7 @@ p {
 ===========================*/
 
 .navbar-area {
-  background: url(/assets/images/Destinos.svg) no-repeat;
+  background: url(../images/Destinos.svg) no-repeat;
   width: 1440px;
   height: 245px;
 }
